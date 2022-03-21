@@ -1,6 +1,6 @@
 var container;
 function allClear() {
-  document.getElementById("displayValue").value = "";
+  document.getElementById("displayValue").value = "0";
 }
 
 var screen = document.getElementById("displayValue");
